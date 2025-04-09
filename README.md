@@ -1,7 +1,7 @@
 NOAA Weather Plugin for OpenCPN
 ==============================
 
-A simple plugin that displays National Oceanic and Atmospheric Administration (NOAA) weather forecasts and alerts from the National Weather Service (NWS) and observations from the National Data Buoy CENTRE (NDBC). It requires an Internet connection in order to download data from the NOAA Web servers,
+A simple plugin that displays National Oceanic and Atmospheric Administration (NOAA) weather forecasts and alerts from the National Weather Service (NWS) and observations from the National Data Buoy Centre (NDBC). It requires an Internet connection in order to download data from the NOAA Web servers,
 
 Obtaining the source code
 -------------------------
